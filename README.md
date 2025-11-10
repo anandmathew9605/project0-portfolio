@@ -1,2 +1,3 @@
-# project0-portfolio
-Portfolio Website Code
+# Portfolio Website
+This repository contains the source code for my personal portfolio website, hosted using AWS Amplify.
+
